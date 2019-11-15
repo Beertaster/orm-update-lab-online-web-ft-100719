@@ -46,5 +46,32 @@ class Student
       end
   end
   
+  def self.create( name:, grade:)
+    
+    student = 
+    student.name =
+    student.grade = 
+    student
+    
+  end
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
 end
